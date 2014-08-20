@@ -1,8 +1,8 @@
 defmodule Repo do
-  use Ecto.Repo, adapter: Exto.Adapters.Postgres
+  use Ecto.Repo, adapter: Ecto.Adapters.Postgres
 
   def conf do
-    parse_url "ecto://postgres:elixir@localhost/pnx_crud"
+    parse_url "ecto://elixir:rixile@localhost/pnx_crud"
   end
 
   def priv do
