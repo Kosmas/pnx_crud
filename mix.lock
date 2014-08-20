@@ -5,7 +5,7 @@
   "inflex": {:package, "0.2.4"},
   "jazz": {:package, "0.2.0"},
   "linguist": {:package, "0.1.1"},
-  "phoenix": {:git, "git://github.com/phoenixframework/phoenix.git", "42c4e82bb64737f3ac0122994a7bf8cd8f54c15a", []},
+  "phoenix": {:git, "git://github.com/phoenixframework/phoenix.git", "e802868f8ab4a37d614ba697e7d7694461427a8f", []},
   "plug": {:package, "0.6.0"},
   "poolboy": {:package, "1.2.1"},
   "postgrex": {:package, "0.5.4"},
